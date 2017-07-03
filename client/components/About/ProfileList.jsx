@@ -12,7 +12,7 @@ const team = [
     name: 'Aidan',
     key: '0',
     profilePhoto: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAelAAAAJGU4ZmYxN2M4LWQ2NmUtNDYzMy04MThlLWFhYzZkNTU2MDc1YQ.jpg',
-    description: 'After his 15th severe concussion from underground fights in Thailand he retired to run an illegal gambling ring in Colombia. Fast forward being extradited to Ecuador and a lengthy legal battle on UNFOUNDED accusations, he now resides in San Francisco where he makes fun, responsive web apps with a small team of developers!',
+    description: 'Full stack developer looking for new oportunities in San Francisco, CA.',
     githubUrl: 'https://github.com/BlindBane',
     linkedinUrl: 'https://www.linkedin.com/in/aidanbane/'
   },
