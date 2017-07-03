@@ -12,7 +12,7 @@ const team = [
     name: 'Aidan',
     key: '0',
     profilePhoto: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAelAAAAJGU4ZmYxN2M4LWQ2NmUtNDYzMy04MThlLWFhYzZkNTU2MDc1YQ.jpg',
-    description: 'Full stack developer looking for new oportunities in San Francisco, CA.',
+    description: 'Full stack developer looking for new opportunities in San Francisco, CA.',
     githubUrl: 'https://github.com/BlindBane',
     linkedinUrl: 'https://www.linkedin.com/in/aidanbane/'
   },
