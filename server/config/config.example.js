@@ -2,9 +2,7 @@ const YELP_APP_ID = ''
 const YELP_APP_SECRET = ''
 const AUTH_SECRET = ''
 
-process.env.NODE_ENV = process.env.NODE_ENV || 'development'
-
-const configEnv = require('./' + process.env.NODE_ENV)
+const configEnv = require('./development')
 
 let config = function () {
   process.env.YELP_APP_ID = YELP_APP_ID
