@@ -5,7 +5,7 @@
   "main": "server/index.js",
   "scripts": {
     "start": "node ./server/index.js",
-    "prestart": "NODE_ENV=production npm install && webpack -p",
+    "prestart": "npm install && webpack -p",
     "build": "webpack",
     "build:watch": "webpack --watch",
     "start_dev": "nodemon ./server/index.js",
